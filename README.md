@@ -1,2 +1,2 @@
-# Sticky The Stickman: Super Size Early Beta Access
-Get the Early Beta Access for people who got the message on scratch.mit.edu!
+# SparkScript 1.0
+SparkScript is a programming language that is very new. Try it out now!
